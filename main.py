@@ -8,7 +8,7 @@ from threading import Thread
 
 # ১. আপনার তথ্য নিশ্চিত করুন
 BOT_TOKEN = "8304578645:AAFAkyLahfdNSHXi2SG7E_m0GceDJXIrHu4"
-BASE_URL = "" # আপনার রেন্ডার ইউআরএল
+BASE_URL = "https://r8raihan-scam-bot.onrender.com" # আপনার রেন্ডার ইউআরএল
 OWNER_ID = 6109947429 # আপনার সঠিক টেলিগ্রাম আইডি
 OWNER_NAME = "Raihan"
 BOT_NAME = "R8rAIHAN_Scam_Bot"
